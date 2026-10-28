@@ -1,0 +1,9 @@
+Package: com.faceid2d.demo
+Name: FaceID2D Demo
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Description: Visual demo only; does not unlock the device.
+Maintainer: FaceID8
+Author: FaceID8
+Section: Tweaks
+Depends: firmware (>= 15.0)
